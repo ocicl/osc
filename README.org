@@ -2,9 +2,8 @@
 
 a common lisp implementation of the Open Sound Control protocol aka OSC
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/zzkt/osc.git   |
-| commit  | {"messa  |
-| systems | osc |
-|---------+-------------------------------------------|
-
+|---------+-------------------------------------|
+| source  | git:https://github.com/zzkt/osc.git |
+| commit  | 9f0a9d3                             |
+| systems | osc                                 |
+|---------+-------------------------------------|

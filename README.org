@@ -4,6 +4,6 @@ a common lisp implementation of the Open Sound Control protocol aka OSC
 
 |---------+-------------------------------------|
 | source  | git:https://github.com/zzkt/osc.git |
-| commit  | 1ab9126                             |
+| commit  | 5c7ed79                             |
 | systems | osc                                 |
 |---------+-------------------------------------|

@@ -1,9 +1,10 @@
-* osc
+* osc-devices
 
-a common lisp implementation of the Open Sound Control protocol aka OSC
+A common lisp implementation of the Open Sound Control protocol aka
+OSC (with devices & CLOS)
 
-|---------+-------------------------------------|
-| source  | git:https://github.com/zzkt/osc.git |
-| commit  | 2c7076d                             |
-| systems | osc                                 |
-|---------+-------------------------------------|
+|---------+---------------------------------------------|
+| source  | git:https://github.com/zzkt/osc-devices.git |
+| commit  | 25bdaad                                     |
+| systems | osc                                         |
+|---------+---------------------------------------------|
